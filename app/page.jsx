@@ -9,6 +9,7 @@ export default function HomePage() {
         alias ducimus illo deleniti debitis ratione distinctio dolor inventore
         saepe.
       </p>
+      <p>Created by Vamshi @2023</p>
     </div>
   );
 }
