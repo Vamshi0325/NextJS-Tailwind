@@ -1,15 +1,7 @@
-import React from "react";
-
-export default function HomePage() {
+export default function Home() {
   return (
-    <div>
-      <h1>HomePage</h1>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quidem
-        alias ducimus illo deleniti debitis ratione distinctio dolor inventore
-        saepe.
-      </p>
-      <p>Created by Vamshi @2023</p>
-    </div>
-  );
+    <h1 className="text-2xl">
+      Homepage
+    </h1>
+  )
 }
